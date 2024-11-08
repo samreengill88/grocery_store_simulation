@@ -1,0 +1,7 @@
+0 Arrive Mia Bread 3 Bread 2 Bread 3 Radish 6 Bananas 2 Flowers 2 Bread 1 Cheese 2 Cheese 1 Gum 1 Milk 1 Bread 2
+19 Arrive Sadia Flowers 2 Bread 1 Cheese 2 Cheese 1 Bread 2 Bananas 1 Chips 1 Radish 1 Bananas 1
+2 Arrive Pedro Meat 5 Milk 4 Milk 1 Lettuce 2 Radish 1 Meat 2 Cheese 1 Chips 1 Chips 2
+8 Arrive Jasmine Pop 1 Fish 2 Lettuce 2 Lettuce 1 Bread 1 Gum 1 Chips 2 Bananas 1 Bananas 2 Gum 1
+14 Arrive Xin Lettuce 5 Bread 10 Raddish 7
+5 Arrive Leo Bread 1 Bread 1 Bread 1 Radish 1 Bananas 1 Flowers 1 Bread 1 Cheese 1 Cheese 1 Gum 1 Milk 1 Bread 1 Cheese 1 Chips 1
+21 Close 0
